@@ -8,9 +8,9 @@
 <h2> About Me </h2>
 
 - ⚗️ My main tasks in my PhD are solid state synthesis and X-Ray diffraction (including PDF measurements)
-- ♥️ I love working with Linux (Manjaro and Debian), LaTex and Python
+- ♥️ I love working with Linux (Manjaro/Debian), LaTex and Python
 - 🕹️ My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
-- ⏳ I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening or a little bit of hiking 
+- ⏳ I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
 
 <h2> I'm also present on these websites! </h2>
 <a href = 'https://www.linkedin.com/in/adam-reupert-362863238/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
