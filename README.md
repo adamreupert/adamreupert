@@ -22,8 +22,6 @@ I'm also present on these websites:
 <a href = 'https://scholar.google.com/citations?hl=en&user=TqswtToAAAAJ'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"/></a>
 --->
 <br>
-<br>
-<br>
 <h2> My github stats! </h2>
 
 ![Adam's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adamreupert&theme=react-dark&hide_border=true&area=true)
