@@ -3,7 +3,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=adamreupert&color=blue)]()
 [![Github](https://img.shields.io/github/followers/adamreupert?label=Follow&style=social)](https://github.com/adamreupert)
 
-<p>Welcome to my page! </br> I'm Adam, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Ulm, Germany</b> and doing my PhD in chemistry at University Ulm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uni_Ulm_Logo_Ausschnitt.svg/240px-Uni_Ulm_Logo_Ausschnitt.svg.png" width="18"/> working on magnesium batteries within the <a href="https://www.postlithiumstorage.org/en/">PoLiS Cluster of Excellence</a> 👨🏼‍🔬🔋.</p> 
+<p>Welcome to my page! </br> I'm Adam, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Ulm, Germany</b> and doing my PhD in chemistry at University Ulm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uni_Ulm_Logo_Ausschnitt.svg/240px-Uni_Ulm_Logo_Ausschnitt.svg.png" width="18"/> working on magnesium batteries within the <a href="https://www.postlithiumstorage.org/en/">POLiS Cluster of Excellence</a> 👨🏼‍🔬🔋.</p> 
 
 <h2> About Me </h2>
 
