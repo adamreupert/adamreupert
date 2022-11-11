@@ -12,10 +12,10 @@
 - 🕹️  My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
 - 🕡  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
 
-<h2> I'm also present on these websites! </h2>
-<a href = 'https://www.linkedin.com/in/adam-reupert-362863238/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-<a href = 'https://www.researchgate.net/profile/Adam-Reupert'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/></a>
-<a href = 'https://orcid.org/0000-0003-2238-9670'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"/></a>
+I'm also present on these websites!
+- <a href = 'https://www.linkedin.com/in/adam-reupert-362863238/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
+- <a href = 'https://www.researchgate.net/profile/Adam-Reupert'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/></a>
+- <a href = 'https://orcid.org/0000-0003-2238-9670'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"/></a>
 <!---
 <a href = 'https://scholar.google.com/citations?hl=en&user=TqswtToAAAAJ'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"/></a>
 --->
