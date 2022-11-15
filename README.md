@@ -10,7 +10,7 @@
 - ⚗️  My main tasks in my PhD are solid state synthesis and X-Ray diffraction (including PDF measurements)
 - ♥️  I love working with Linux (Manjaro/Debian), LaTeX and Python
 - 🕹️  My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
-- 🕡  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
+- 🚵  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
 
 I'm also present on these websites:
 <br>
