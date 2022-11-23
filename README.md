@@ -8,10 +8,11 @@
 <h2> About Me </h2>
 
 - 🧙 According to this <a href="https://media-exp1.licdn.com/dms/image/C4E22AQH0ugI68f_mfQ/feedshare-shrink_2048_1536/0/1644915427638?e=1672272000&v=beta&t=LzciSHxgSdSp1yix5ERKchfoPFwe_4R7th3WaAVEZKw">source (German content)</a> I am a wizard
-- ⚗️  My main tasks in my PhD are solid state synthesis and X-Ray diffraction (including PDF measurements)
 - ♥️  I love working with Linux (Manjaro/Debian), LaTeX and Python (Spyder IDE)
+- 🛑  I am to dump for vim 
 - 🕹️  My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
 - 🚵  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
+- 🍍  My favorite fruit is pineapple, I even like it on Pizza :P
 
 <h2> You can also find me here:</h2>
 <a href = 'https://www.linkedin.com/in/adam-reupert-362863238/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
