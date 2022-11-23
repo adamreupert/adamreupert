@@ -13,7 +13,7 @@
 - 🕹️  My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
 - 🚵  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
 
-I'm also present on these websites:
+<h2> You can also find me here:</h2>
 <br>
 <br> 
 <a href = 'https://www.linkedin.com/in/adam-reupert-362863238/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
