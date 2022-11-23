@@ -19,8 +19,6 @@ I'm also present on these websites:
 <a href = 'https://www.researchgate.net/profile/Adam-Reupert'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/></a>
 <a href = 'https://orcid.org/0000-0003-2238-9670'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"/></a>
 <!---
-<a href = 'https://scholar.google.com/citations?hl=en&user=TqswtToAAAAJ'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"/></a>
---->
 <h2> My github stats! </h2>
 
 ![Adam's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adamreupert&theme=react-dark&hide_border=true&area=true)
@@ -30,3 +28,4 @@ I'm also present on these websites:
 
 |![Github Stars](https://github-readme-stats.vercel.app/api?username=adamreupert&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamreupert&layout=compact&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff)|
 | ----- | --- |
+--->
