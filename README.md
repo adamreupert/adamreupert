@@ -9,7 +9,7 @@
 
 - 🧙 According to this <a href="https://media-exp1.licdn.com/dms/image/C4E22AQH0ugI68f_mfQ/feedshare-shrink_2048_1536/0/1644915427638?e=1672272000&v=beta&t=LzciSHxgSdSp1yix5ERKchfoPFwe_4R7th3WaAVEZKw">source (German content)</a> I am a wizard
 - ♥️  I love working with Linux (Manjaro/Debian), LaTeX and Python (Spyder IDE)
-- 🛑  I am to dumb for vim 
+- 🛑  I am to dumb/lazy for vim 
 - 🕹️  My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
 - 🚵  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
 - 🍍  My favorite fruit is pineapple;- I even like it on Pizza :P
