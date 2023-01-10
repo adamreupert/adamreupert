@@ -10,7 +10,7 @@
 - ♥️  I love working with Linux (Manjaro/Debian), LaTeX and Python (Spyder IDE)
 - 🛑  I am to dumb/lazy for vim 
 - 🕹️  My favourite Games are the Monkey island / Deponia series (digital) and Wizard / Azul (analog)
-- 🚵  I spent my free time on Godot, Pc/Board-games with friends, reading, cooking, gardening and a little bit of hiking 
+- 🚵  I spent my free time on PC/Board-games with friends, Godot, microcontrollers, reading, cooking, gardening and a little bit of hiking 
 - 🍍  My favorite fruit is pineapple;- I even like it on Pizza :P
 
 <h2> You can also find me here:</h2>
